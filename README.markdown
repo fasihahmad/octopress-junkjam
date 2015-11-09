@@ -1,5 +1,7 @@
 ## Contributing JunkJam
 
+http://blog.junkjam.in
+
 Add new markdown file to start writing, blogging at its finest.
 
 Click + icon on [post](https://github.com/fasihahmad/octopress-junkjam/tree/master/source/_posts) to fork this project and create a new markdown file.
@@ -13,5 +15,6 @@ Markdown's syntax for images.  ([Image](http://octopress.org/docs/plugins/image-
 
 ## License
 JunkJam.in http://junkjam.in
+
 
 
