@@ -11,7 +11,7 @@ categories: People
 For every market we have a specialist who is responsible for all the communication between their local to your local.
 
 If you have any problem or any confusion like what to buy?? From where to buy?? 
-Our street specialist team will help you to take a right route.
+
 
 Junk professional is a team of shopping experts who have a great sense of 
 shopping and current fashion trends.. The team roams around different cities 
