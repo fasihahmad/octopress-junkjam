@@ -15,7 +15,7 @@ Blog posts must be stored in the source/_posts directory and named according to 
 **YYYY-MM-DD-post-slug.markdown**. The name of the file will be used as the url slug, and the date helps with file distinction and determines the sorting order for post loops
 
 
-Open a post in a editor and you'll have to add block of yaml text
+Open a post in editor and you'll have to add a block of yaml text
 which tells JunkJam how to processes posts.
 
 ``` yaml
