@@ -1,2 +1,46 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+.gsc-control-cse{
+	padding:0px !important;
+}
+.gsc-search-button{
+	display:none !important;
+}
+form.gsc-search-box{
+	margin-bottom:0px !important;
+}
+table.gsc-search-box{
+	margin-bottom:0px !important;
+}
+.gsc-search-box-tools .gsc-search-box .gsc-input{
+padding-right:0px !important;
+}
+body>nav form {
+	margin:2px;
+}
+hgroup>h1 { 
+	font-family: 'Varela Round', sans-serif !important; 
+    font-size: 40px;
+    letter-spacing: 12px;
+    margin: 10px;
+}
+hgroup h1 a {
+	color: #353535 !important;
+    display: inline-block;
+}
+hgroup h2 {
+	color: #353535 !important;
+}
+hgroup h1 span {
+    color: #a1a9b0;
+    display: inline-block;
+}
+hgroup>h2, h1 { 
+	font-family: 'Varela Round', sans-serif !important; 
+    letter-spacing: 1px;
+	font-size: 1.85rem;
+}
+body>header {
+	background-image: url(../images/plants-bg.jpg);
+	background-position: right -10px top -300px;
+}

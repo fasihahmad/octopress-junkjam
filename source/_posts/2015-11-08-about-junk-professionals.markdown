@@ -3,10 +3,10 @@ layout: post
 title: "Junk Professionals, What the fu**"
 date: 2015-11-08 23:18:49 +0530
 comments: true
-categories: People
+categories: JunkJam
 ---
 
-{% img left http://junkjam.in/img/iphone-bg.jpg 500 650 Place Kitten #2 %}
+{% img left http://junkjam.in/img/iphone-bg.jpg 500 650 Junk Professionals %}
 <!-- more -->
 For every market we have a specialist who is responsible for all the communication between their local to your local.
 

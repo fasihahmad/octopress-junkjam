@@ -5,12 +5,14 @@
 #url: http://triptiratn.github.io/blog.junkjam.in
 url: http://blog.junkjam.in
 domain: http://junkjam.in
-title: JunkJam
-subtitle: India's First Online EStreet Market
+title: JunkJam Blog
+header: JUNK<span>JAM</span>
+subtitle: India's First Online eStreet Market
 author: Fasih Ahmad Fakhri
 description: India's First Online EStreet Market
 
-simple_search: https://www.google.co.in/search
+#simple_search: https://www.google.co.in/search
+simple_search: false
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -72,6 +74,10 @@ github_user:
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
+
+# Pinterest
+pinterest_user: junkjam2015
+pinterest_pin_it: true
 
 # Twitter
 twitter_user:

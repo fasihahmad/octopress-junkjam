@@ -1,4 +1,9 @@
 <div class="sharing">
+  {% if site.pinterest_pin_it %}
+	<a data-pin-do="buttonBookmark" href="https://www.pinterest.com/pin/create/button/"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a>
+	<!-- Please call pinit.js only once per page -->
+	<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+  {% endif %}
   {% if site.twitter_tweet_button %}
   <a href="//twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ page.url }}" data-via="{{ site.twitter_user }}" data-counturl="{{ site.url }}{{ page.url }}" >Tweet</a>
   {% endif %}

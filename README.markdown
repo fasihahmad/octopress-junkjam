@@ -10,11 +10,11 @@ Create Pull Request to get merged and published your markdown file.
 
 ## Blogging Basics
 
-Blog posts must be stored in the source/_posts directory and named according to naming conventions: YYYY-MM-DD-post-slug.markdown. The name of the file will be used as the url slug, and the date helps with file distinction and determines the sorting order for post loops
+Blog posts must be stored in the source/_posts directory and named according to naming conventions: **YYYY-MM-DD-post-slug.markdown**. The name of the file will be used as the url slug, and the date helps with file distinction and determines the sorting order for post loops
 
-Markdown syntax for writing.  ([Writing](https://help.github.com/articles/markdown-basics/))
+Markdown basics for writing.  ([Writing](https://help.github.com/articles/markdown-basics/))
 
-Octopress syntax for image.  ([Image](http://octopress.org/docs/plugins/image-tag/))
+Octopress basics for image.  ([Image](http://octopress.org/docs/plugins/image-tag/))
 
 ## License
 JunkJam.in http://junkjam.in
