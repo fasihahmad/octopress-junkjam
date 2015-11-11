@@ -10,11 +10,11 @@ Create Pull Request to get merged and published your markdown file.
 
 ## Blogging Basics
 
-Markdown basics for writing.  ([Writing](https://help.github.com/articles/markdown-basics/))
+* Markdown basics for writing.  ([Writing](https://help.github.com/articles/markdown-basics/))
 
-Octopress basics for image.  ([Image](http://octopress.org/docs/plugins/image-tag/))
+* Octopress basics for image.  ([Image](http://octopress.org/docs/plugins/image-tag/))
 
-Online Markdown Editor. ([Editor](http://dillinger.io/))
+* Online Markdown Editor. ([Editor](http://dillinger.io/))
 
 Blog posts must be stored in the source/_posts directory and named according to naming conventions:
 
