@@ -32,8 +32,8 @@ email: junkjam2015@gmail.com
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-#permalink: /blog/:year/:month/:day/:title/
-permalink: /:title/
+permalink: /:year/:month/:day/:title/
+#permalink: /:title/
 source: source
 destination: public
 plugins: plugins
@@ -54,6 +54,7 @@ excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of 
 excerpt_separator: "<!--more-->"
 
 titlecase: true       # Converts page and post titles to titlecase
+sticky_header: true
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
@@ -68,6 +69,9 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
+
+# Socialite
+socialite: true
 
 # Github repositories
 github_user:

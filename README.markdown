@@ -14,7 +14,7 @@ Blog posts must be stored in the source/_posts directory and named according to 
 
 Markdown basics for writing.  ([Writing](https://help.github.com/articles/markdown-basics/))
 
-Octopress basics for image.  ([Image](http://octopress.org/docs/plugins/image-tag/))
+JunkJam basics for image.  ([Image](http://junkjam.in/doc/image-tag/))
 
 ## License
 JunkJam.in http://junkjam.in
