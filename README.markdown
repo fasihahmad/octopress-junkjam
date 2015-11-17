@@ -12,7 +12,7 @@ Create Pull Request to get merged and published your markdown file.
 
 * Markdown basics for writing.  ([Writing](https://help.github.com/articles/markdown-basics/))
 
-* JunkJam basics for image.  ([Image](http://junkjam.in/doc/image-tag/))
+* JunkJam basics for image.  ([Image](http://blog.junkjam.in/docs/image-tag/))
 
 * Online Markdown Editor. ([Editor](http://dillinger.io/))
 
