@@ -157,3 +157,9 @@ ul,ol
 		display: none;
 	}
 }
+article {
+  ol, ul {
+    padding-left: 3em;
+	list-style: inherit;
+  }
+}

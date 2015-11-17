@@ -21,6 +21,8 @@ Create Pull Request to get merged and published your markdown file.
 
 * JunkJam basics for image.  ([Image]({{ root_url }}/docs/image-tag/))
 
+* Upload Images for post.  ([Upload]({{ root_url }}/docs/upload-images/))
+
 * Online Markdown Editor. ([Editor](http://dillinger.io/))
 
 Blog posts must be stored in the source/_posts directory and named according to naming conventions:
