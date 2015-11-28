@@ -3,10 +3,11 @@ layout: post
 title: "Junk Professionals, What the fu**"
 date: 2015-11-08 23:18:49 +0530
 comments: true
+author: JunkJam
 categories: JunkJam
 ---
 
-{% img left http://junkjam.in/img/iphone-bg.jpg 500 650 Junk Professionals %}
+{% img left https://cloud.githubusercontent.com/assets/1082157/11216980/23045ae0-8d74-11e5-91c2-496d18a4d988.jpg 500 650 Junk Professionals %}
 <!-- more -->
 For every market we have a specialist who is responsible for all the communication between their local to your local.
 
