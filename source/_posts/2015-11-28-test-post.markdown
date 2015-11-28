@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Test Post for JunkJam"
+date: 2015-11-28 23:18:49 +0530
+comments: true
+categories: JunkJam
+---
+
+Hello JunkJam, This is my test posting
+<!--more -->
+
+Here is my Post Detail.
+
+Blalallalala
+
+Bye
