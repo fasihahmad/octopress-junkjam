@@ -9,29 +9,21 @@ socialite: false
 ---
 
 
-Add new markdown file to start writing, blogging at its finest.
+Add new markdown file to start writing, blogging at its finest steps.
 
-Click + icon on [JunkJam repo](https://github.com/fasihahmad/octopress-junkjam/tree/master/source/_posts) to fork this project and create a new markdown file.
+1. Add **New File** in [JunkJam repo](https://github.com/fasihahmad/octopress-junkjam/tree/master/source/_posts) to fork this project and **Propose new file**.
 
-Create Pull Request to get merged and published your markdown file.
+2. **Create pull request** to get merged and published your markdown file.
 
-## Blogging Basics
+##  Propose new file
 
-* Markdown basics for writing.  ([Writing](https://help.github.com/articles/markdown-basics/))
+Name your file according to below naming convention in [source/_posts](https://github.com/fasihahmad/octopress-junkjam/tree/master/source/_posts) directory:
 
-* JunkJam basics for image.  ([Image]({{ root_url }}/docs/image-tag/))
+**YYYY-MM-DD-post-slug.markdown**
 
-* Upload Images for post.  ([Upload]({{ root_url }}/docs/upload-images/))
-
-* Online Markdown Editor. ([Editor](http://dillinger.io/))
-
-Blog posts must be stored in the source/_posts directory and named according to naming conventions:
-
-**YYYY-MM-DD-post-slug.markdown**. The name of the file will be used as the url slug, and the date helps with file distinction and determines the sorting order for post loops
-
-
-Open a post in editor and you'll have to add a block of yaml text
-which tells JunkJam how to processes posts.
+The name of the file will be used as the url slug, and the date helps with file distinction and determines the sorting order for post loops
+**Edit new file** and add a block of yaml text
+which tells JunkJam how to processes posts. e.g. [post](https://github.com/fasihahmad/octopress-junkjam/edit/master/source/_posts/2015-11-08-about-junk-professionals.markdown)
 
 ``` yaml
 ---
@@ -62,6 +54,13 @@ categories:
 - Miami Calling
 ```
 
+## Blogging Basics
 
+* Markdown basics for writing.  ([Writing](https://help.github.com/articles/markdown-basics/))
 
+* JunkJam basics for image.  ([Image]({{ root_url }}/docs/image-tag/))
+
+* Upload Images for post.  ([Upload]({{ root_url }}/docs/upload-images/))
+
+* Online Markdown Editor. ([Editor](http://dillinger.io/))
 
