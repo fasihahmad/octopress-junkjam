@@ -56,7 +56,7 @@ categories:
 
 ## Blogging Basics
 
-* Markdown basics for writing.  ([Writing](https://help.github.com/articles/markdown-basics/))
+* Markdown basics for writing.  ([Writing](https://help.github.com/articles/basic-writing-and-formatting-syntax/))
 
 * JunkJam basics for image.  ([Image]({{ root_url }}/docs/image-tag/))
 
