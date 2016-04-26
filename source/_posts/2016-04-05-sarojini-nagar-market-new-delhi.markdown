@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Sarojini Nagar Market (SN Market)"
+title: "Sarojini Nagar Market, SN Market"
 date: 2016-04-05 22:53:49 +0530
 comments: true
 author: Nidhi
 categories: [Sarojini, Delhi, JunkJam]
+og_image: https://cloud.githubusercontent.com/assets/1082157/14292309/359e5474-fb85-11e5-8011-526600b714bb.jpg
 ---
 
 Sarojini Nagar Market (SN Market) is one of the most coveted markets of Delhi NCR. It has been North Capital Region’s most favourable shopping destination at killer prices. Sarojini Nagar has never been a disappointment whether one has to buy shoes, trendy clothes, fashionable jewellery or designer bags. And of course, there is no use of shopping without a healthy bargain dose.
