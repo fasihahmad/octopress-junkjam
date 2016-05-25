@@ -2,14 +2,15 @@
 #      Main Configs       #
 # ----------------------- #
 
-#url: http://triptiratn.github.io/blog.junkjam.in
 url: http://blog.junkjam.in
 domain: http://junkjam.in
 title: JunkJam Blog
 header: JUNK<span>JAM</span>
 subtitle: India's First Online eStreet Market
 author: JunkJam
-description: India's First Online EStreet Market
+description: India's First Online eStreet Market
+category_title_prefix: "Latest Posts on "
+category_meta_description_prefix: "Latest Posts on "
 
 #simple_search: https://www.google.co.in/search
 simple_search: false
@@ -58,7 +59,7 @@ sticky_header: true
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
+default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html, custom/asides/google_adsense.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
@@ -71,7 +72,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Socialite
-socialite: true
+socialite: false
 
 # Github repositories
 github_user:
@@ -88,7 +89,7 @@ twitter_user:
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: true
+google_plus_one: false
 google_plus_one_size: medium
 
 # Google Plus Profile

@@ -4,7 +4,7 @@ title: "Greater Kailash M-Block Market"
 date: 2016-04-24 16:53:49 +0530
 comments: true
 author: Tripti
-categories: [Great Kailash, Delhi, JunkJam]
+categories: [Great Kailash, Market, New Delhi, JunkJam]
 og_image: https://cloud.githubusercontent.com/assets/1082157/14767652/c887bd4e-0a48-11e6-9fe4-f8e319f6da79.jpg
 ---
 {% img left https://cloud.githubusercontent.com/assets/1082157/14767652/c887bd4e-0a48-11e6-9fe4-f8e319f6da79.jpg 500 650 GK M Block Market %}

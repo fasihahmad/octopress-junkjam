@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contributing JunkJam"
-date: 2015-11-17 19:30
+date: 2016-05-25 03:30
 comments: false
 sidebar: false
 footer: false
@@ -58,9 +58,9 @@ categories:
 
 * Markdown basics for writing.  ([Writing](https://help.github.com/articles/basic-writing-and-formatting-syntax/))
 
-* JunkJam basics for image.  ([Image]({{ root_url }}/docs/image-tag/))
+* JunkJam basics for image.  ([Image](how-to-add-images-in-post/))
 
-* Upload Images for post.  ([Upload]({{ root_url }}/docs/upload-images/))
+* Upload Images for post.  ([Upload](how-to-upload-images-for-post/))
 
 * Online Markdown Editor. ([Editor](http://dillinger.io/))
 

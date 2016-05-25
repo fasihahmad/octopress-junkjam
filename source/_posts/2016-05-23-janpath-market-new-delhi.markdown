@@ -4,7 +4,7 @@ title: "Janpath Market"
 date: 2016-05-23 16:53:49 +0530
 comments: true
 author: Tripti
-categories: [Janpath, Delhi, JunkJam]
+categories: [Janpath, Market, New Delhi, JunkJam]
 og_image: https://cloud.githubusercontent.com/assets/1082157/15455916/f1cbc88e-207e-11e6-91fd-aea97a770cd1.jpg
 ---
 {% img left https://cloud.githubusercontent.com/assets/1082157/15455916/f1cbc88e-207e-11e6-91fd-aea97a770cd1.jpg 500 650 Janpath Market %}

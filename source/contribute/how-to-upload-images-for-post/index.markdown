@@ -1,18 +1,14 @@
 ---
 layout: page
 title: "Uploading Images: GitHub Tricks"
-date: 2015-11-17 20:34
+date: 2016-05-25 03:30
 comments: false
 sidebar: false
 socialite: false
 footer: false
 ---
 
-### GitHub Asset Management
-
-Github does not currently provide an asset management tool for developers repositories. But GitHub DOES have a hidden feature that can be used as a CDN for assets (images, attachements, etc). it’s called the Issues feature!
-
-Smart use of Issues makes it super easy to uploaded files that are associated with your repository… and these files not part of its commit/change processes. If you create an Issue within your repository, you can drag-n-drop files to the issue comments to automatically upload and attach static content to your repository.
+Smart use of Issues makes it super easy to uploaded files that are associated with your post and these files not part of its commit/change processes. If you create an Issue within [JunkJam](https://github.com/fasihahmad/octopress-junkjam/issues) repository, you can drag-n-drop files to the issue comments to automatically upload and attach static content to your repository.
 
 Here are samples steps:
 

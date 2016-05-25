@@ -28,7 +28,12 @@
 
 {% if site.sticky_header %}
 <script type="text/javascript">
-$('.menu').addClass('original').clone().insertAfter('.menu').addClass('cloned').css('position','fixed').css('top','0').css('margin-top','0').css('z-index','500').removeClass('original').hide();
+function cloneNav(){
+  var clonedNav = $('.menu').addClass('original').clone().insertAfter('.menu').addClass('cloned').css('position','fixed').css('top','0').css('margin-top','0').css('z-index','500').removeClass('original').hide();
+  clonedNav.find('select').bind('change', function(event) {
+    if (event.target.value) { window.location.href = event.target.value; }
+  });
+}
 scrollIntervalID = setInterval(stickIt, 10);
 
 function stickIt() {
