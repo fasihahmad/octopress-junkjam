@@ -22,18 +22,20 @@
   <meta property=og:url content="{{ canonical }}">
   <meta property=og:title content="{% if page.title %}{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %} - {% endif %}{{ site.title }}" />
   <meta property=og:description content="{{ description | strip_html | condense_spaces | truncate:150 }}" />
-  <meta property=og:image content="{% if page.og_image %}{{ page.og_image }}{% else %}http://junkjam.in/img/og_image.jpg{% endif %}">
+  <meta property=og:image content="{% if page.og_image %}{{ page.og_image }}{% else %}//junkjam.in/img/og_image.jpg{% endif %}">
   <meta name=twitter:site content=junkjam>
   <meta name=twitter:title content="{% if page.title %}{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %} - {% endif %}{{ site.title }}">
   <meta name=twitter:description content="{{ description | strip_html | condense_spaces | truncate:150 }}">
   <meta name="p:domain_verify" content="5caaee786c9fe8757dacb179891f46ff"/>
+  <meta name="theme-color" content="#dcd3c2">
 
-  <link href="https://plus.google.com/113017918336489460151" rel="publisher" />
+  <link rel="manifest" href="/manifest.json">
   <link rel="canonical" href="{{ canonical }}">
   <link href="{{ root_url }}/favicon.jpg" rel="icon">
   <link href="{{ root_url }}/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href='http://fonts.googleapis.com/css?family=Varela+Round' rel=stylesheet type=text/css>
   <link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
+  <link href="https://plus.google.com/113017918336489460151" rel="publisher" />
+  <link href='//fonts.googleapis.com/css?family=Varela+Round' rel=stylesheet type=text/css>
 
   <script src="{{ root_url }}/javascripts/modernizr-2.0.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -42,7 +44,7 @@
   <script type="text/javascript" async defer src="https://apis.google.com/js/platform.js?publisherid=113017918336489460151"></script>
 
   <script type="text/javascript">var switchTo5x=true;</script>
-  <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+  <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
   <script type="text/javascript">stLight.options({publisher: "6e6b2701-9d40-4627-9062-84ed933d6992", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 	
   {% include custom/head.html %}

@@ -1,0 +1,21 @@
+{  
+  "name": "JunkJam.in",
+  "short_name": "JunkJam",
+  "start_url": "/?utm_source=web_app_manifest",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2a4d8a",
+  "theme_color": "#2a4d8a",
+  "gcm_sender_id": "986279531307",
+  "splash_screens": [{
+      "src": "/images/logo.png"
+    }],
+  "icons": [
+    {
+      "src": "/images/logo.png",
+	  "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
+

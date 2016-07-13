@@ -33,7 +33,7 @@ The print gives you an untrained feminine look!! It is the most arrived trend th
 
 {% img https://cloud.githubusercontent.com/assets/1082157/15628316/dd6eae28-251b-11e6-89a1-2974cd096d50.jpg 500 500 Floral Print Clothes %}
 ### How to wear it
-The usually comes in big prints so male sure u don't kill thm wearing large accessories!
+The usually comes in big prints so make sure you don't kill thm wearing large accessories!
 
 ## DENIM WEARS
 This season denim outfits are at its peak you can see varieties of it in market 
@@ -44,7 +44,7 @@ Denim jacket,shirts ,dresses ,pants and many options are available for it!
 Denims are tough at looks do not spoil your look wearing traditional accessories at all!
 
 ## OFF-SHOULDERS & TUNICS
-Off shoulders are always gives a cool pretty n hot look to u colors n darks will be good at its option!
+Off shoulders are always gives a cool pretty and hot look to you colors and darks will be good at its option!
 
 {% img https://cloud.githubusercontent.com/assets/1082157/15628320/ddeb9852-251b-11e6-913d-2d72c7379841.JPG Off Shoulders & Tunic %}
 ### How to wear it
