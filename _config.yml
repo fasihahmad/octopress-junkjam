@@ -11,6 +11,8 @@ author: JunkJam
 description: India's First Online eStreet Market
 category_title_prefix: "Latest Posts on "
 category_meta_description_prefix: "Latest Posts on "
+author_title_prefix: "Latest Posts by "
+author_meta_description_prefix: "Latest Posts by "
 
 #simple_search: https://www.google.co.in/search
 simple_search: false
