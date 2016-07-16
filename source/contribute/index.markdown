@@ -11,19 +11,19 @@ socialite: false
 
 Add new markdown file to start writing, blogging at its finest steps.
 
-1. Add **New File** in [JunkJam repo](https://github.com/fasihahmad/octopress-junkjam/tree/master/source/_posts) to fork this project and **Propose new file**.
+1. Add **New File** in [JunkJam repo](https://github.com/junkjam/cms.blog.junkjam.in/tree/master/source/_posts) to fork this project and **Propose new file**.
 
 2. **Create pull request** to get merged and published your markdown file.
 
 ##  Propose new file
 
-Name your file according to below naming convention in [source/_posts](https://github.com/fasihahmad/octopress-junkjam/tree/master/source/_posts) directory:
+Name your file according to below naming convention in [source/_posts](https://github.com/junkjam/cms.blog.junkjam.in/tree/master/source/_posts) directory:
 
 **YYYY-MM-DD-post-slug.markdown**
 
 The name of the file will be used as the url slug, and the date helps with file distinction and determines the sorting order for post loops
 **Edit new file** and add a block of yaml text
-which tells JunkJam how to processes posts. e.g. [post](https://github.com/fasihahmad/octopress-junkjam/edit/master/source/_posts/2015-11-08-about-junk-professionals.markdown)
+which tells JunkJam how to processes posts. e.g. [post](https://github.com/junkjam/cms.blog.junkjam.in/edit/master/source/_posts/2015-11-08-about-junk-professionals.markdown)
 
 ``` yaml
 ---
