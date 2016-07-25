@@ -3,10 +3,10 @@
 Most of the people will concur with the epigram "women's fashion is much more diverse than men!!". But who says accessories are for women only? Here are top 10 accessories that can add flavour and color to any outfit to fit the preferences of any men out there.
 
 ## 1. Watch
-A wrist watch is the most conventional accessory a man can invest in. it adds a punch of simplicity as well as style to your personality. it is one of the most acceptable men's accessory. Mechanical, chronograph, leather strap watches are the latest trends this season.
+A wrist watch is the most conventional accessory a man can invest in. It exudes simplicity while adding style to your personality. it is one of the most acceptable men's accessory. Mechanical, chronograph, leather strap watches are the latest trends this season.
 
 ## 2. Tie
-A tie is pretty much one accessory that adds life to any men's costume. Various mutants include bow-tie, necktie, ascots. A tie radiates class and confidence. Pair up your suit with multicolor, printed , textured, silk ties this summer.
+A tie is one accessory that adds life to any men's attire. Various mutants include bow-tie, necktie, ascots. A tie radiates class and confidence. Pair up your suit with multicolor, printed , textured, silk ties this summer.
 
 ## 3. Pocket Squares
 Regardless of this recently added fashion statement pocket squares have become a perfect addition to men's wardrobe. How to pair them up?? well chose a totally contrast pocket square. no matchy-matchy!!GO for a colorful choice that isn't too in-your-face.
@@ -24,7 +24,7 @@ Card holders can be a superb approach to speak to a level of professional skill.
 Yes unsual it seems,, but jewellery for men is gaining popularity now-a-days. Common jewellery for men is the wedding ring. THe most effective way for a man to carry jewellery is to be comfortable about it. Ear studs, copper bracelets, lapel pins, beaded necklace are some well executed jewellery intended for men.
 
 ## 8. Belt
-Belt is a safe and easy pick accessory for men. It no longer serves aa s tool for holding mne's trouser but a great style statement. Wide buckles and a webbed, fabric version with a double-D buckle fastening works well for this summer.
+Belt is a safe and easy pick accessory for men. It no longer serves as a tool for holding mens trouser but a great style statement. Wide buckles and a webbed, fabric version with a double-D buckle fastening works well for this summer.
 
 ## 9. Sunglasses
 Sunglasses, aviators, shades are one of the accessory men wear on their face. They are a must have for glamorous, High Fashion look. Tortoiseshell frames and sleek metal are latest fashion trends..
