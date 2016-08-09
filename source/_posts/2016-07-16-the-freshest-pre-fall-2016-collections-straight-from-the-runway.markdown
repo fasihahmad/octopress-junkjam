@@ -52,5 +52,3 @@ Lemon yellow shirt dress prepped up with gold accessories or an emerald green wi
 {% img center https://cloud.githubusercontent.com/assets/1082157/16893390/4b58e2e2-4b54-11e6-9689-af80213e9e63.jpg %}
 The Pre Fall '16 collection is all about mixing and matching the bright hues and staying comfortable in whatever you wear. Because experimenting with style and trying out new looks is just so fashionista-type. Try out these looks and all eyes will be on you. 
 
-
-
