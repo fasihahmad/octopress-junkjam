@@ -31,5 +31,5 @@ Perhaps the first place in Delhi to have given momos a tandoori flavor and twist
 {% img center https://cloud.githubusercontent.com/assets/20486720/17888873/c1dca106-694a-11e6-98c3-cedb8cf92f7f.jpg %}
 A place that offers unique flavors of India, Dilli Haat has various food stalls offering delicacies to taste. At the same time, you can shop exciting things from different state stalls. Being one of the most lively places of Delhi, this place is the center to many events and performances that can be a good past time.
 #India Gate
-{% img center https://cloud.githubusercontent.com/assets/20486720/17888984/7c4a4926-694b-11e6-9e4e-9d2e627eba83.jpg %}
+{% img left https://cloud.githubusercontent.com/assets/20486720/17888984/7c4a4926-694b-11e6-9e4e-9d2e627eba83.jpg 500 200 %}
 While talking of the hangout destinations in Delhi, how can anyone forget about the famous India Gate. The alluring atmosphere and strolling the art galleries and museums around feels amazing. The place offers an amazing fusion of patriotic and romantic feelings. The cheap street food around is worth giving a try. All in all, this place deserves a hangout while in Delhi. 
