@@ -5,7 +5,7 @@ date: 2016-09-03 13:30:49 +0530
 comments: true
 author: Smriti Sharma
 categories: [ JunkJam ]
-og_image: https://cloud.githubusercontent.com/assets/1082157/16893395/4b93b9ee-4b54-11e6-8a96-469928486e88.jpg
+og_image: https://cloud.githubusercontent.com/assets/21153184/18225112/167eff1c-7209-11e6-99cf-c6beb0d2bec8.jpg
 ---
 
 {% img left https://cloud.githubusercontent.com/assets/21153184/18225112/167eff1c-7209-11e6-99cf-c6beb0d2bec8.jpg 500 600 %}
