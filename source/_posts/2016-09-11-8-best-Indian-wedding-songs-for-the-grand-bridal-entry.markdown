@@ -10,8 +10,9 @@ og_image: https://cloud.githubusercontent.com/assets/20486720/18417590/530a3f42-
 
 {% img left https://cloud.githubusercontent.com/assets/20486720/18417590/530a3f42-7852-11e6-9294-5bc2cd9fc9f9.jpg 400 500 %}
 Wedding! The most auspicious and important day of every girl’s life! On this so very special day, everything ought to be perfect. From a beautiful bridal dress to the perfect background song during the entry, there needs to be sublimity in everything and every girl wants that these dreams come true. 
-Picture yourself on your wedding day walking down the alley with your favorite people by your side. The marvelous attire and a soft romantic song being played in the background, while you move towards your prince charming. Doesn’t it seem like a fairy tale where you are the princess and the evening belongs to you! So, to help you with this fairy tale turning into reality, we have a list of songs to make your bridal entry an epic one:
 <!-- more -->
+
+Picture yourself on your wedding day walking down the alley with your favorite people by your side. The marvelous attire and a soft romantic song being played in the background, while you move towards your prince charming. Doesn’t it seem like a fairy tale where you are the princess and the evening belongs to you! So, to help you with this fairy tale turning into reality, we have a list of songs to make your bridal entry an epic one:
 
 #Raabta 
 {% img center https://cloud.githubusercontent.com/assets/20486720/18417601/8875089c-7852-11e6-9126-72595dcd31f9.jpg %}
