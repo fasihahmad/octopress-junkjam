@@ -19,11 +19,11 @@ A bargain is something you don't need at a price you can't resist. - Franklin Jo
 ## 2. Street food - The only thing I like better than talking about food is eating : John Walters
 {% img center %}
 
-## 3. No need of cards -"Na credit card badha na debit, sabse badha rupaiya!!"
+## 3. No need of cards -"Na credit card bada na debit, sabse bada rupaiya!!"
 {% img center %}
 
 ## 4. Worth every penny - value for money
-	"It is not the money that matters, it's how you use it that determines its true value."
+It is not the money that matters, it's how you use it that determines its true value.
 {% img center %}
 
 ## 5. Verify your goods - goods are tangible
