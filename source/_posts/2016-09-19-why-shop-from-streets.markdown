@@ -7,7 +7,7 @@ author: Aditi Gupta
 categories: [Market, JunkJam]
 og_image: https://cloud.githubusercontent.com/assets/1082157/17110837/7c7bebc0-52bc-11e6-881d-6f39d8bbc336.jpg
 ---
-{% img left https://cloud.githubusercontent.com/assets/1082157/17110837/7c7bebc0-52bc-11e6-881d-6f39d8bbc336.jpg 450 600 Fashion Accessories for Men %}
+{% img left https://cloud.githubusercontent.com/assets/1082157/17110837/7c7bebc0-52bc-11e6-881d-6f39d8bbc336.jpg 450 600 %}
 With advent of many e-commerce sites and recent emergence of mall culture in india, here are top 7 reasons why street shopping is still a hit.
 <!-- more -->
 
