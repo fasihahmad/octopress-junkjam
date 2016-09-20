@@ -29,7 +29,7 @@ Bring out the adrenaline junkie in you and be as adventurous as you can! Plan a 
 Snow lovers would simply not resist going to Ladhakh. It is usually found that girls love snow all around, crystal clear lakes, all of it presenting nature at its best.
 
 #Alleppey
-{% img center https://cloud.githubusercontent.com/assets/20486720/18239198/33fdf26a-7361-11e6-90df-fc8c286f3ab1.jpg %}
+{% img center https://cloud.githubusercontent.com/assets/1082157/18655871/fb0ccb5c-7f09-11e6-95fa-2a3c51160a42.jpg %}
 Taking your best friends along and staying in a boathouse would be so much fun! The backwaters of Alleppey would let you have this fun with all the best girls of your life. Also, don’t forget to pay a visit to the Alleppey Beach.
 
 #Nainital
