@@ -9,9 +9,10 @@ og_image: https://cloud.githubusercontent.com/assets/1082157/19015068/5707e8d8-8
 ---
 
 {% img left https://cloud.githubusercontent.com/assets/1082157/19015068/5707e8d8-881a-11e6-9af6-6ca86c160dd6.jpg 600 500 %}
-It all began with eve teasing, slowly took the form of molestation, and finally turned into brutal rape. There is no denying the fact that the issues related to women have increased to great extent now days. Even though, there have arrived various laws and norms for the safety of females in our country but still the number of such issues has not gone down, in fact, these have increased in the past few years. 
+It all began with eve teasing, slowly took the form of molestation, and finally turned into brutal rape. There is no denying the fact that the issues related to women have increased to great extent now days. 
 <!-- more -->
 
+Even though, there have arrived various laws and norms for the safety of females in our country but still the number of such issues has not gone down, in fact, these have increased in the past few years.
 No matter, how much this menace keeps on rising, there are still such people in the society who will keep on attempting to do things that create awareness in the minds of people regarding the safety of women. One such awareness is created in the minds of public through empowering movies related to women’s issues. So, we picked some great ones and brought a list for you:
 
 #Arth
