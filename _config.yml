@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: https://blog.junkjam.in
-domain: https://junkjam.in
+domain: https://www.junkjam.in
 title: JunkJam Blog - Street Market! Fashion! LifeStyle!
 header: JUNK<span>JAM</span>
 subtitle: India's First Online eStreet Market
@@ -75,6 +75,8 @@ default_asides: [custom/asides/fb_page.html, asides/recent_posts.html, asides/gi
 
 # Socialite
 socialite: false
+sharethis: false
+sharemiss: true
 
 # Github repositories
 github_user:

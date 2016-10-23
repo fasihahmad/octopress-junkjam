@@ -47,103 +47,16 @@ body>nav {
     padding-top: 0em;
     padding-bottom: 0em;
 }
-/*
-	SOCIAL MEDIA
-*/
-
-.sm
-{
-	width: 100%;
-	height: 2.0rem;
-	color: #444;
-	color: rgba( 0, 0, 0, .75 );
-	background-color: #fff;
-	background-color: rgba( 255, 255, 255, 0.3 );
-	overflow: hidden;
-	position: fixed;
-	z-index: 1001;
-	bottom: 0;
-	left: 0;
-	padding: 0.625rem 1.25rem 0;
+article {
+  ol, ul {
+    padding-left: 3em;
+	list-style: inherit;
+  }
 }
-	.sm--dark
-	{
-		color: #ddd;
-		color: rgba( 255, 255, 255, .75 );
-		background-color: #111;
-		background-color: rgba( 0, 0, 0, .5 );
-	}
-	.sm ul
-	{
-	}
-		.sm li
-		{
-			float: right;
-			margin-left: 1rem;
-		}
-		.sm li:first-child
-		{
-		    margin-top: -0.41rem;
-		    padding-right: 5rem;
-		}
-			.sm .googleplus-one
-			{
-				max-width: 60px;
-			}
-			.sm .twitter-follow > *:not( :first-child ),
-			.sm .twitter-share > *:not( :first-child )
-			{
-				display: none;
-			}
-
-		@media screen{ @media ( min-width: 0px ) /* everything but Internet Explorer and Safari ≤6 */
-		{
-			.sm li:last-child
-			{
-				opacity: 0;
-				-webkit-transition: opacity .25s ease-in-out;
-				transition: opacity .25s ease-in-out;
-			}
-			.sm:hover li:last-child
-			{
-				opacity: 1;
-			}	
-		}}
-
-			.sm__back
-			{
-				font-size: 0.875rem; /* 14 */
-				font-weight: bold;
-				color: currentColor;
-				text-transform: uppercase;
-				position: relative;
-			}
-				.sm__back::before
-				{
-					width: 0;
-					height: 0;
-					border: 0.313rem solid transparent; /* 5 */
-					border-left: none;
-					border-right-color: currentColor;
-					content: '';
-					display: inline-block;
-					position: relative;
-					left: 0;
-					margin-right: 0.313rem; /* 5 */
-
-					-webkit-transition: left .25s ease-in-out;
-					transition: left .25s ease-in-out;
-				}
-				.sm__back:hover::before,
-				.sm__back:focus::before
-				{
-					left: -0.313rem; /* 5 */
-				}
-
-ul,ol
-{
+ul,ol {
 	list-style: none;
 }
+
 
 /*
 	RESPONSIVENESS
@@ -151,16 +64,12 @@ ul,ol
 
 @media screen and (max-width: 40em), screen and (max-height: 40em) /* 640 */
 {
-	.sm
-	{
+	.sm {
 		display: none;
 	}
-}
-article {
-  ol, ul {
-    padding-left: 3em;
-	list-style: inherit;
-  }
+	.mm_whatsapp_share {
+		display: inline-block !important;
+	}
 }
 
 .tinynav {
@@ -185,4 +94,57 @@ article {
 	left: 0;
 	width: 100%;
 	height: 100%;
+}
+
+.mm_facebook_share, .mm_twitter_tweet, .mm_google_plus_share, .mm_email_share, .mm_pinterest_share, .mm_whatsapp_share{
+	border: 1px solid transparent;
+}
+.mm_facebook_share:visited, .mm_facebook_share:hover, .mm_facebook_share:active, .mm_twitter_tweet:visited, .mm_twitter_tweet:hover, .mm_twitter_tweet:active, .mm_google_plus_share:visited, .mm_google_plus_share:hover, .mm_google_plus_share:active, .mm_email_share:visited, .mm_email_share:hover, .mm_email_share:active, .mm_pinterest_share:visited, .mm_pinterest_share:hover, .mm_pinterest_share:active, .mm_whatsapp_share:visited, .mm_whatsapp_share:hover, .mm_whatsapp_share:active{
+	border: 1px solid #f2635d;
+	color: #f2635d;
+}
+.mm_facebook_share,.mm_twitter_tweet,.mm_google_plus_share,.mm_email_share,.mm_pinterest_share,.mm_whatsapp_share {
+	color: #fff;
+	cursor: pointer;
+	height: 39px;
+	width: 99px;
+	padding-left: 1%;
+	margin-right: 2px;
+	display: inline-block;
+	text-align: left;
+}
+.mm_whatsapp_share {
+	display: none;
+}
+.mm_facebook_share span,.mm_twitter_tweet span,.mm_google_plus_share span,.mm_email_share span,.mm_pinterest_share span ,.mm_whatsapp_share span {
+	line-height: 39px;
+	font-size: 30px;
+}
+.mm_facebook_share, .bg_facebook {
+	background-color: #3c5897;
+}
+.mm_twitter_tweet, .bg_twitter {
+	background-color: #4e96c2;
+}
+.mm_google_plus_share, .bg_googleplus {
+	background-color: #bc1f14;
+}
+.mm_whatsapp_share {
+	background-color: #2ab200;
+}
+.bg_pintrest{
+	background-color: #dd010d;
+}
+.bg_mail{
+	background-color: #666666;
+}
+.mm_email_share,.mm_email_share:hover {
+	background-color: #666666;
+	color: #fff;
+	text-decoration: none;
+}
+.mm_pinterest_share,.mm_pinterest_share:hover {
+	background-color: #dd010d;
+	color: #fff;
+	text-decoration: none;
 }

@@ -1,0 +1,7 @@
+{% if site.sharethis %}
+	{% include post/sharethis.html %}
+{% else if site.sharemiss %}
+	{% include post/sharemiss.html %}
+{% else %}
+	{% include post/sharing.html %}
+{% endif %}

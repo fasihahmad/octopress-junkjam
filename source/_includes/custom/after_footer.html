@@ -7,9 +7,11 @@
 <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
 <script src="{{ root_url }}/javascripts/octopress.js" type="text/javascript"></script>
 
+{% if site.sharethis %}
 <script type="text/javascript">var switchTo5x=true;</script>
 <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">stLight.options({publisher: "6e6b2701-9d40-4627-9062-84ed933d6992", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+{% endif %}
 
 {% if site.socialite and page.socialite != false %}
 <div class="sm">
@@ -68,7 +70,8 @@ function stickIt() {
 }
 </script>
 {% endif %}
-<script type="text/javascript" src="/javascripts/loadmore.js?v2"></script>
+
+<script type="text/javascript" src="/javascripts/loadmore.js?v=1.1"></script>
 <script type="text/javascript">
 	Article.init({current:{slug:'{{ page.url }}'}})
 </script>
