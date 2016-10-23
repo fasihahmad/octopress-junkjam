@@ -3,8 +3,8 @@ layout: default
 single: true
 ---
 
-<div>
-<article class="hentry" role="article">
+<div id="js-container">
+<article class="hentry js-block" role="article" data-slug="{{ page.url }}">
   {% include article.html %}
   <footer>
     <p class="meta">
@@ -14,7 +14,7 @@ single: true
     </p>
     <p class="meta blog-index">
       {% if page.previous.url %}
-        <a rel="full-article" class="basic-alignment left" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; Previous Post</a>
+        <a id="load-next-article" self="{{ page.url }}" rel="full-article" class="basic-alignment left" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; Previous Post</a>
       {% endif %}
       {% if page.next.url %}
         <a rel="full-article" class="basic-alignment right" href="{{page.next.url}}" title="Next Post: {{page.next.title}}">Next Post &raquo;</a>
