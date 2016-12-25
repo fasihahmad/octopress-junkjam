@@ -49,7 +49,7 @@ scrollIntervalID = setInterval(stickIt, 10);
 
 function stickIt() {
 
-  var orgElementPos = $('.original').offset();
+  var orgElementPos = $('.original').offset() || {top:1};
   orgElementTop = orgElementPos.top;               
 
   if ($(window).scrollTop() >= (orgElementTop)) {
@@ -57,7 +57,7 @@ function stickIt() {
 
     // Cloned element should always have same left position and width as original element.     
     orgElement = $('.original');
-    coordsOrgElement = orgElement.offset();
+    coordsOrgElement = orgElement.offset() || {left:1};
     leftOrgElement = coordsOrgElement.left;  
     widthOrgElement = orgElement.css('width');
     $('.cloned').css('left',leftOrgElement+'px').css('top',0).css('width',widthOrgElement).show();

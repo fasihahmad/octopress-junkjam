@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<div class="blog-index">
+{% capture page_url %}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' }}{% endif %}{% endcapture %}
+<div class="blog-index js-block" data-slug="{{ page.url }}">
   {% assign index = true %}
   {% for post in paginator.posts %}
   {% assign content = post.content %}
