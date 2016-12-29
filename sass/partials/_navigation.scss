@@ -53,7 +53,7 @@ body > nav {
       margin: 0;
     }
     a {
-      @include link-colors($nav-color-hover, $nav-color, $visited: $nav-color-hover);
+      @include link-colors($nav-color, $nav-color-hover, $visited: $nav-color);
       font-family: $sans;
       text-shadow: lighten($nav-bg, 12) 0 1px;
       float: left;

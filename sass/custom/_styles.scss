@@ -25,14 +25,14 @@ hgroup>h1 {
     margin: 10px;
 }
 hgroup h1 a {
-	color: #dcdcdc !important;
+	color: $junk-color !important;
     display: inline-block;
 }
 hgroup h2 {
 	color: #353535 !important;
 }
 hgroup h1 span {
-    color: #8e2121;
+    color: $jam-color;
     display: inline-block;
 }
 hgroup>h2, h1 { 
