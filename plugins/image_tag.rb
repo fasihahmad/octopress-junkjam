@@ -22,9 +22,9 @@ module Jekyll
     @img = nil
 
     def initialize(tag_name, markup, tokens)
-      attributes = ['class', 'src', 'width', 'height', 'title']
+      attributes = ['class', 'data-original', 'width', 'height', 'title']
 
-      if markup =~ /(?<class>\S.*\s+)?(?<src>(?:https?:\/\/|\/|\S+\/)\S+)(?:\s+(?<width>\d+))?(?:\s+(?<height>\d+))?(?<title>\s+.+)?/i
+      if markup =~ /(?<class>\S.*\s+)?(?<data-original>(?:https?:\/\/|\/|\S+\/)\S+)(?:\s+(?<width>\d+))?(?:\s+(?<height>\d+))?(?<title>\s+.+)?/i
         @img = attributes.reduce({}) { |img, attr| img[attr] = $~[attr].strip if $~[attr]; img }
         if /(?:"|')(?<title>[^"']+)?(?:"|')\s+(?:"|')(?<alt>[^"']+)?(?:"|')/ =~ @img['title']
           @img['title']  = title
@@ -32,7 +32,12 @@ module Jekyll
         else
           @img['alt']    = @img['title'].gsub!(/"/, '&#34;') if @img['title']
         end
-        @img['class'].gsub!(/"/, '') if @img['class']
+        if @img['class']
+            @img['class'].gsub!(/"/, '')
+            @img['class'] << " lazy"
+        else
+            @img['class'] = "lazy"
+        end
       end
       super
     end
