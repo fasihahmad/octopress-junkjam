@@ -12,7 +12,6 @@ og_image: https://cloud.githubusercontent.com/assets/1082157/22694596/da270524-e
 If a study abroad programme seems appealing to you and you’ve applied or been selected and you are now super-duper excited about the abroad adventure. Well, congratulations! The next step is to prepare yourself for the trip. So make a probable questionnaire and kick start your preparation. Here we have complied 6 must have points in your to-do list while planning your trip.
 <!-- more -->
 
-
 ## Passport and Visa
 Without a passport, your abroad trip is impossible. If you already owned one, make sure that it’s not expired or won’t expire within 6 months of your intended return to the place you have opted for study. Also, check with other credentials related to the passport.
 
