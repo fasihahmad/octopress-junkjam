@@ -7,6 +7,7 @@ author: Tripti
 categories: [Lifestyle, JunkJam]
 og_image: https://cloud.githubusercontent.com/assets/21153184/22875106/ded768da-f1ef-11e6-95b0-08170d5f0585.jpg 
 ---
+
 {% img left  https://cloud.githubusercontent.com/assets/21153184/22875106/ded768da-f1ef-11e6-95b0-08170d5f0585.jpg 400 600 %}
 With February 14 is so so close, you may be wondering how to celebrate Valentine’s Day when you’re in a long-distance relationship. 
 

@@ -27,6 +27,7 @@ hgroup>h1 {
 hgroup h1 a {
 	color: $junk-color !important;
     display: inline-block;
+    font-weight: bold;
 }
 hgroup h2 {
 	color: #353535 !important;
@@ -81,7 +82,7 @@ article header p.meta{
 	RESPONSIVENESS
 */
 
-@media screen and (max-width: 40em), screen and (max-height: 40em) /* 640 */
+@media screen and (max-width: 40em) /* 640 */
 {
 	.sm {
 		display: none;
@@ -115,6 +116,33 @@ article header p.meta{
 	height: 100%;
 }
 
+header .social-shares {
+	//padding-left: inherit;
+	display: flex;
+	div,a {
+		float: left;
+	    margin-right: 11px;
+	    width: 44px;
+	    height: 44px;
+	}
+}
+
+aside.sidebar img {
+	height: 250px !important;
+    width: 250px !important;
+    display: block;
+}
+
+#recent_posts li {
+    float: left;
+    height: 300px;
+    width: 250px;
+    padding-right: 14px;
+    @media screen and (max-width: 40em){
+    	margin-left: 25px;
+    }
+}
+
 .mm_facebook_share, .mm_twitter_tweet, .mm_google_plus_share, .mm_email_share, .mm_pinterest_share, .mm_whatsapp_share{
 	border: 1px solid transparent;
 }
@@ -125,19 +153,19 @@ article header p.meta{
 .mm_facebook_share,.mm_twitter_tweet,.mm_google_plus_share,.mm_email_share,.mm_pinterest_share,.mm_whatsapp_share {
 	color: #fff;
 	cursor: pointer;
-	height: 39px;
-	width: 99px;
+	height: 44px;
+	width: 44px;
 	padding-left: 1%;
 	margin-right: 2px;
 	display: inline-block;
-	text-align: left;
+	text-align: center;
 }
 .mm_whatsapp_share {
 	display: none;
 }
 .mm_facebook_share span,.mm_twitter_tweet span,.mm_google_plus_share span,.mm_email_share span,.mm_pinterest_share span ,.mm_whatsapp_share span {
-	line-height: 39px;
-	font-size: 30px;
+	line-height: 44px;
+	font-size: 32px;
 }
 .mm_facebook_share, .bg_facebook {
 	background-color: #3c5897;
