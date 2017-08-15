@@ -16,6 +16,7 @@ footer: true
     return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
     }
     document.getElementById('sitesearchtextbox').value = getParameterByName('q');
+    document.getElementsByClassName('entry-title')[0].innerHTML = "Search for " + getParameterByName('q');
   })();
 
   (function() {

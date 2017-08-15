@@ -2,50 +2,12 @@
   Add content to be output at the bottom of each page. (You might use this for analytics scripts, for example)
 {% endcomment %}
 
+{% include services/disqus.html %}
+{% include services/facebook_sdk.html %}
+
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-<script src="{{ root_url }}/javascripts/octopress.js?v=2.0" type="text/javascript"></script>
+<script src="{{ root_url }}/javascripts/octopress.js?v=3.1"></script>
+<script>Article.init({current:{slug:'{{ page.url }}'}})</script>
 
-{% if site.sharethis %}
-<script type="text/javascript">var switchTo5x=true;</script>
-<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({publisher: "6e6b2701-9d40-4627-9062-84ed933d6992", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-{% endif %}
-
-{% if site.sticky_header %}
-<script type="text/javascript">
-function cloneNav(){
-  var clonedNav = $('.menu').addClass('original').clone().insertAfter('.menu').addClass('cloned').css('position','fixed').css('top','0').css('margin-top','0').css('z-index','500').removeClass('original').hide();
-  clonedNav.find('select').bind('change', function(event) {
-    if (event.target.value) { window.location.href = event.target.value; }
-  });
-}
-scrollIntervalID = setInterval(stickIt, 10);
-
-function stickIt() {
-
-  var orgElementPos = $('.original').offset() || {top:1};
-  orgElementTop = orgElementPos.top;               
-
-  if ($(window).scrollTop() >= (orgElementTop)) {
-    // scrolled past the original position; now only show the cloned, sticky element.
-
-    // Cloned element should always have same left position and width as original element.     
-    orgElement = $('.original');
-    coordsOrgElement = orgElement.offset() || {left:1};
-    leftOrgElement = coordsOrgElement.left;  
-    widthOrgElement = orgElement.css('width');
-    $('.cloned').css('left',leftOrgElement+'px').css('top',0).css('width',widthOrgElement).show();
-    $('.original').css('visibility','hidden');
-  } else {
-    // not scrolled past the menu; only show the original menu.
-    $('.cloned').hide();
-    $('.original').css('visibility','visible');
-  }
-}
-</script>
-{% endif %}
-
-<script type="text/javascript">
-	Article.init({current:{slug:'{{ page.url }}'}})
-</script>
+{% include services/onesignal.html %}
