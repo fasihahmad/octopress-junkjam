@@ -133,6 +133,10 @@ aside.sidebar img {
     display: block;
 }
 
+aside.sidebar a {
+	text-decoration: none;
+}
+
 #recent_posts li {
     float: left;
     height: 300px;

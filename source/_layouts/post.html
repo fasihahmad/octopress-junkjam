@@ -1,6 +1,7 @@
 ---
 layout: default
 single: true
+article: true
 ---
 
 <div id="js-container">
@@ -9,16 +10,16 @@ single: true
   <footer>
     <p class="meta">
       {% include post/author.html %}
-      {% include post/date.html %}{{ time }}{% if updated %} {{ updated }}{% endif %}
+      {% include post/date.html %}{{ time }}{% if updated %} | Updated on {{ updated }}{% endif %}
       {% include post/categories.html %}
     </p>
     <p class="meta blog-index">
       {% if page.previous.url %}
-        <a id="load-next-article" self="{{ page.url }}" rel="full-article" class="basic-alignment left" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; Previous Post</a>
-      {% endif %}
+        <a id="load-next-article" self="{{ page.url }}" rel="full-article" class="basic-alignment right" href="{{page.previous.url}}" title="{{page.previous.title}}">Next Post &raquo;</a>
+      {% endif %}    
       {% if page.next.url %}
-        <a rel="full-article" class="basic-alignment right" href="{{page.next.url}}" title="Next Post: {{page.next.title}}">Next Post &raquo;</a>
-      {% endif %}
+        <a rel="full-article" class="basic-alignment left" href="{{page.next.url}}" title="{{page.next.title}}">&laquo; Previous Post</a>
+      {% endif %}      
     </p>
   </footer>
 </article>

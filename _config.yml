@@ -9,10 +9,14 @@ header: Junk<span>jam.in</span>
 subtitle: false
 author: JunkJam
 description: India's First Online eStreet Market
-category_title_prefix: "Latest Posts on "
-category_meta_description_prefix: "Latest Posts on "
-author_title_prefix: "Latest Posts by "
-author_meta_description_prefix: "Latest Posts by "
+
+category_title_prefix: "Latest Posts on"
+category_meta_description_prefix: "Latest Posts on"
+category_meta_description_suffix: ": Category in JunkJam Blog - Street Market! Fashion! LifeStyle!"
+
+author_title_prefix: "Latest Posts by"
+author_meta_description_prefix: "Latest Posts by"
+author_meta_description_suffix: ": Author at JunkJam Blog - Street Market! Fashion! LifeStyle!"
 
 #simple_search: https://www.google.co.in/search
 simple_search: true

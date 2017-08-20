@@ -41,10 +41,11 @@ module Jekyll
       self.data['author']    = author
       # Set the title for this page.
       title_prefix             = site.config['author_title_prefix'] || 'author: '
-      self.data['title']       = "#{title_prefix}#{author}"
+      self.data['title']       = "#{title_prefix} #{author}"
       # Set the meta-description for this page.
-      meta_description_prefix  = site.config['author_meta_description_prefix'] || 'author: '
-      self.data['description'] = "#{meta_description_prefix}#{author}"
+      meta_description_prefix  = site.config['author_meta_description_prefix'] || 'Author: '
+      meta_description_suffix  = site.config['author_meta_description_suffix'] || ''
+      self.data['description'] = "#{meta_description_prefix} #{author} #{meta_description_suffix}"
     end
 
   end
@@ -130,7 +131,7 @@ module Jekyll
                authors = [ authors ]
       end
       authors = authors.map do |author|
-        "<a class='author' href='/#{dir}/#{author.downcase.gsub(' ', '-')}/'>#{author}</a>"
+        "<a class='author url fn' href='/#{dir}/#{author.downcase.gsub(' ', '-')}/'>#{author}</a>"
       end
       case authors.length
       when 0

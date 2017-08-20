@@ -26,6 +26,8 @@ module Jekyll
 
       if markup =~ /(?<class>\S.*\s+)?(?<data-original>(?:https?:\/\/|\/|\S+\/)\S+)(?:\s+(?<width>\d+))?(?:\s+(?<height>\d+))?(?<title>\s+.+)?/i
         @img = attributes.reduce({}) { |img, attr| img[attr] = $~[attr].strip if $~[attr]; img }
+        @noimg = attributes.reduce({}) { |img, attr| img[attr] = $~[attr].strip if $~[attr]; img }
+        @noimg['src'] = @noimg['data-original']
         if /(?:"|')(?<title>[^"']+)?(?:"|')\s+(?:"|')(?<alt>[^"']+)?(?:"|')/ =~ @img['title']
           @img['title']  = title
           @img['alt']    = alt
@@ -44,7 +46,7 @@ module Jekyll
 
     def render(context)
       if @img
-        "<img #{@img.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}>"
+        "<img #{@img.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}/><noscript><img #{@noimg.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}></noscript>"
       else
         "Error processing input, expected syntax: {% img [class name(s)] [http[s]:/]/path/to/image [width [height]] [title text | \"title text\" [\"alt text\"]] %}"
       end

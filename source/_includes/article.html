@@ -20,7 +20,7 @@
     {% endif %}
     {% unless page.meta == false %}
       <p class="meta">
-		{% if author %}<span class="byline author vcard"><span class="fn">{{ author | author_links}}</span></span>{% endif %} in {% include post/categories.html %} | {{ date }}
+		{% if author %}<span class="byline author vcard">{{ author | author_links}}</span>{% endif %} in {% include post/categories.html %} | {{ date }}
         {% if false and site.disqus_short_name and page.comments != false and post.comments != false and site.disqus_show_comment_count == true %}
            | <a href="{% if index %}{{ root_url }}{{ post.url }}{% endif %}#disqus_thread" data-disqus-identifier="{% if post.meta.disqus_id %}{{ post.meta.disqus_id }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">Comments</a>
         {% endif %}

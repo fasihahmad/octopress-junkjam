@@ -1,19 +1,22 @@
 ---
 layout: post
-title: "10 Most Visit Cafes in Gurgaon"
+title: "10 Must Visit Cafes in Gurgaon"
 date: 2017-08-15 15:05:22 +0530
+updated: 2017-08-17 23:05:22 +0530
 comments: true
 categories: [Cafe, Gurgaon]
 og_image: https://user-images.githubusercontent.com/1082157/29312456-036dfbdc-81d3-11e7-96e1-d567af8ba219.jpg
 ---
 
 {% img left https://user-images.githubusercontent.com/1082157/29312456-036dfbdc-81d3-11e7-96e1-d567af8ba219.jpg 560 400 %}
-Check out most visted and amazing cafés in Gurgaon where you can chill and relax.
+
+Check out must visit cafés in Gurgaon to experience most thrilling and delicious food items this weekend.
+
+Here is the list of cafes, you must check-in at least once.
 
 <!-- more -->
 
 These popular cafes will certainly attract you with their chic interiors, a variety of scrumptious food items, freshly brewed coffees and a range of shakes and smoothies.
-
 
 **1. Café Delhi heights** 
 {% img center https://user-images.githubusercontent.com/1082157/29312164-c643eb64-81d1-11e7-8c27-c63b3360b33f.jpg %}
