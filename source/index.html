@@ -15,7 +15,7 @@ layout: default
     {% if paginator.next_page %}
       <a rel="full-article" class="prev" href="{{ paginator.next_page_path | remove:'index.html' | strip_slash }}/">&larr; Older</a>
     {% endif %}
-    <a href="/archives">Blog Archives</a>
+    <a href="/archives/">Blog Archives</a>
     {% if paginator.previous_page %}
     <a rel="full-article" class="next" href="{{ paginator.previous_page_path | remove:'index.html' | strip_slash }}/">Newer &rarr;</a>
     {% endif %}

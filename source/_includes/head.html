@@ -18,6 +18,8 @@
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="p:domain_verify" content="5caaee786c9fe8757dacb179891f46ff"/>
+  <meta name="theme-color" content="#dcd3c2">
 
   <meta property=fb:app_id content="1615927002059010"/>
   <meta property=og:url content="{{ canonical }}" />
@@ -32,6 +34,7 @@
   <meta property=article:published_time content='{{ page.date }}' />
   <meta property=article:publisher content='https://www.facebook.com/junkjam.in' />
   {% endif %}
+
   <meta name=author content="{{ page_author }}"/>
   <meta name=twitter:site content=@junkjamIndia />
   <meta name=twitter:card content="summary_large_image" />
@@ -39,23 +42,18 @@
   <meta name=twitter:description content="{{ description | strip_html | condense_spaces | truncate:150 }}">
   <meta name=twitter:image content="{% if page.og_image %}{{ page.og_image }}{% else %}{{ site.url }}/images/JunkJam_400x400.jpg{% endif %}">
 
-  <meta name="p:domain_verify" content="5caaee786c9fe8757dacb179891f46ff"/>
-  <meta name="theme-color" content="#dcd3c2">
   <link rel="manifest" href="/manifest.json" />
   <link rel="canonical" href="{{ canonical }}" />
   <link rel="dns-prefetch" href="{{ site.url }}" />
   <link rel="icon" href="{{ root_url }}/favicon.png" />
   <link rel="publisher" href="https://plus.google.com/+JunkjamIn" />
-  {% if paginator.previous_page %}
-  <link rel="prev" href="{{site.url}}{{ paginator.previous_page_path | remove:'index.html' | strip_slash}}/" />
-  {% endif %}
-  {% if paginator.next_page %}
-  <link rel="next" href="{{site.url}}{{ paginator.next_page_path | remove:'index.html' | strip_slash }}/" />
-  {% endif %}
+  <link rel="alternate" href="{{ canonical }}" hreflang="en-us" />
   <link rel="alternate" href="{{ site.subscribe_rss }}" title="{{site.title}}" type="application/atom+xml">
   <link rel="stylesheet" href="{{ root_url }}/stylesheets/screen.css?v=2.0" media="screen, projection" type="text/css">
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" media="screen, projection" type="text/css">
   <link rel="stylesheet" href='//fonts.googleapis.com/css?family=Annie+Use+Your+Telescope|Varela+Round|PT+Serif:regular,italic,bold,bolditalic|PT+Sans:regular,italic,bold,bolditalic' type="text/css">
+  {% if paginator.previous_page %}<link rel="prev" href="{{site.url}}{{ paginator.previous_page_path | remove:'index.html' | strip_slash}}/" />{% endif %}
+  {% if paginator.next_page %}<link rel="next" href="{{site.url}}{{ paginator.next_page_path | remove:'index.html' | strip_slash }}/" />{% endif %}
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->  
   {% include custom/head.html %}
 </head>

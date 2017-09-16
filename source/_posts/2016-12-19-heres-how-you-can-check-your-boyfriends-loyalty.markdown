@@ -4,6 +4,7 @@ title: "Here’s how you can check your boyfriend’s loyalty?"
 date: 2016-12-19 07:50:49 +0530
 comments: true
 author: Smriti Sharma
+facebook: https://www.facebook.com/SmrItz
 categories: [LifeStyle, JunkJam]
 og_image: https://cloud.githubusercontent.com/assets/1082157/21299213/73ec5474-c5bf-11e6-8840-1807723aa1df.jpg
 ---

@@ -4,7 +4,8 @@ title: "Are you in a  Long Distance Relationships?? Here are 6 awesome Valentine
 date: 2017-02-12 19:36:03 +0530
 comments: true
 author: Tripti
-categories: [Lifestyle, JunkJam]
+facebook: https://www.facebook.com/ER.Tripti.Ratn.Mishra
+categories: [LifeStyle, JunkJam]
 og_image: https://cloud.githubusercontent.com/assets/21153184/22875106/ded768da-f1ef-11e6-95b0-08170d5f0585.jpg 
 ---
 
