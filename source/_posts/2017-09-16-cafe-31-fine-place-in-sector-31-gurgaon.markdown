@@ -7,15 +7,16 @@ categories: [Cafe, Gurgaon]
 og_image: https://user-images.githubusercontent.com/1082157/30510075-58a45bb6-9adb-11e7-9764-14c4f47d6489.jpg
 ---
 
-{% img left https://user-images.githubusercontent.com/1082157/30510075-58a45bb6-9adb-11e7-9764-14c4f47d6489.jpg 400 500 %}
+{% img left https://user-images.githubusercontent.com/1082157/30511776-a03a2c18-9afd-11e7-8ba8-2d702b5ffc24.png 500 500 %}
 
 Little pearls are now and again found in the swarmed hedge, on the off chance that you have discovered one, consider your self fortunate. I was fortunate throughout the end of the week when we went to this little outlet in Sec 31, Huda Market, another set called CAFE 31.
 
 <!-- more -->
 
 The outlet worked two young fellows has brimming with vitality and crudeness, as I comprehend, its self planned so the magnificence of off track configuration has its own appeal.
-{% img center https://user-images.githubusercontent.com/1082157/30238433-3fd172fc-9565-11e7-8fb6-c66abaacf79a.jpg %}
 
+{% img left https://user-images.githubusercontent.com/1082157/30510075-58a45bb6-9adb-11e7-9764-14c4f47d6489.jpg 300 500 %}
+{% img right https://user-images.githubusercontent.com/1082157/30238433-3fd172fc-9565-11e7-8fb6-c66abaacf79a.jpg 400 500 %}
 ## Vibe:
 Just the correct one to snatch a little mainland nibble, you cannot bear to remain there for a long as a result of space crunch however usage of accessible space is great, no individuals to individuals interface regardless of space crunch.
 {% img center https://user-images.githubusercontent.com/1082157/30238434-3fd44694-9565-11e7-9f64-0834f856cbcb.jpg %}
