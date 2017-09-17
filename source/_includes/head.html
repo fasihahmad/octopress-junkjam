@@ -42,14 +42,14 @@
   <meta name=twitter:description content="{{ description | strip_html | condense_spaces | truncate:150 }}">
   <meta name=twitter:image content="{% if page.og_image %}{{ page.og_image }}{% else %}{{ site.url }}/images/JunkJam_400x400.jpg{% endif %}">
 
-  <link rel="manifest" href="/manifest.json" />
+  <link rel="manifest" href="/manifest.json?v=1.0" />
   <link rel="canonical" href="{{ canonical }}" />
   <link rel="dns-prefetch" href="{{ site.url }}" />
   <link rel="icon" href="{{ root_url }}/favicon.png" />
   <link rel="publisher" href="https://plus.google.com/+JunkjamIn" />
   <link rel="alternate" href="{{ canonical }}" hreflang="en-us" />
   <link rel="alternate" href="{{ site.subscribe_rss }}" title="{{site.title}}" type="application/atom+xml">
-  <link rel="stylesheet" href="{{ root_url }}/stylesheets/screen.css?v=2.0" media="screen, projection" type="text/css">
+  <link rel="stylesheet" href="{{ root_url }}/stylesheets/screen.css?v=4.0" media="screen, projection" type="text/css">
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" media="screen, projection" type="text/css">
   <link rel="stylesheet" href='//fonts.googleapis.com/css?family=Annie+Use+Your+Telescope|Varela+Round|PT+Serif:regular,italic,bold,bolditalic|PT+Sans:regular,italic,bold,bolditalic' type="text/css">
   {% if paginator.previous_page %}<link rel="prev" href="{{site.url}}{{ paginator.previous_page_path | remove:'index.html' | strip_slash}}/" />{% endif %}

@@ -1,7 +1,8 @@
 <script>
+var userChoicePromise = function(choiceResult){};
 window.addEventListener('load', function() {
   if('serviceWorker' in navigator){
-  navigator.serviceWorker.register('/service-worker.js', { scope: './' })
+  navigator.serviceWorker.register('/service-worker.js?v=4.0', { scope: './' })
     .then(function(r) {
       console.log('registered service worker');
     })
@@ -16,9 +17,11 @@ window.addEventListener('load', function() {
       console.log(choiceResult.outcome);
       if(choiceResult.outcome == 'dismissed') {
         console.log('User cancelled homescreen install');
+        userChoicePromise(choiceResult);
       }
       else {
         console.log('User added to homescreen');
+        userChoicePromise(choiceResult);
       }
     });
   });
