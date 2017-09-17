@@ -2,25 +2,25 @@
 var userChoicePromise = function(choiceResult){};
 window.addEventListener('load', function() {
   if('serviceWorker' in navigator){
-  navigator.serviceWorker.register('/service-worker.js?v=4.0', { scope: './' })
+  navigator.serviceWorker.register('/service-worker.js?v={{site.sw_version}}', { scope: './' })
     .then(function(r) {
-      console.log('registered service worker');
+      //console.log('registered service worker');
     })
     .catch(function(whut) {
-      console.error('uh oh... ');
-      console.error(whut);
+      //console.error('uh oh... ');
+      //console.error(whut);
     });
   }
   window.addEventListener('beforeinstallprompt', function(e) {
     // e.userChoice will return a Promise. For more details read: http://www.html5rocks.com/en/tutorials/es6/promises/
     e.userChoice.then(function(choiceResult) {
-      console.log(choiceResult.outcome);
+      //console.log(choiceResult.outcome);
       if(choiceResult.outcome == 'dismissed') {
-        console.log('User cancelled homescreen install');
+        //console.log('User cancelled homescreen install');
         userChoicePromise(choiceResult);
       }
       else {
-        console.log('User added to homescreen');
+        //console.log('User added to homescreen');
         userChoicePromise(choiceResult);
       }
     });

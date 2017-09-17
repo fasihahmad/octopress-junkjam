@@ -4,11 +4,11 @@
 
 {% include services/disqus.html %}
 {% include services/facebook_sdk.html %}
+{% if page.article %}<script>var _qart=[];_qart.push({current:{slug:'{{ page.url }}'}});</script>{% endif %}
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-<script src="{{ root_url }}/javascripts/octopress.js?v=4.0"></script>
-{% if page.article %}<script>Article.init({current:{slug:'{{ page.url }}'}})</script>{% endif %}
+<script async defer src="{{ root_url }}/javascripts/octopress.js?v={{site.js_version}}"></script>
 
 {% include services/onesignal.html %}
 {% include services/service_worker.html %}
