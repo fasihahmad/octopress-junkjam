@@ -5,21 +5,21 @@ date: 2016-10-30 15:18:49 +0530
 comments: true
 author: JunkJam
 categories: [Market,Gurgaon]
-og_image: https://blog.junkjam.in/images/posts/DSC09823.JPG
+og_image: https://blog.junkjam.in/images/posts/DSC09823.jpg
 ---
 
-{% img center /images/posts/DSC09823.JPG %}
+{% img center /images/posts/DSC09823.jpg %}
 <!--more-->
 
-{% img center /images/posts/DSC09815.JPG %}
+{% img center /images/posts/DSC09815.jpg %}
 
-{% img center /images/posts/DSC09818.JPG %}
+{% img center /images/posts/DSC09818.jpg %}
 
-{% img center /images/posts/DSC09821.JPG %}
+{% img center /images/posts/DSC09821.jpg %}
 
-{% img center /images/posts/DSC09825.JPG %}
+{% img center /images/posts/DSC09825.jpg %}
 
-{% img center /images/posts/DSC09826.JPG %}
+{% img center /images/posts/DSC09826.jpg %}
 
 Huda market sector 31, Gurgaon is a perfect destination for a great time with your dear ones. 
 With so much to lure your senses and offer you recreation at its best, get drenched in the spirit of adventure that you get to explore at huda market sector 31, Gurgaon.
