@@ -64,7 +64,7 @@ excerpt_separator: "<!--more-->"
 titlecase: true       # Converts page and post titles to titlecase
 sticky_header: true
 
-js_version: 4.2
+js_version: 4.3
 mf_version: 1.0
 sw_version: 4.0
 css_version: 4.0
