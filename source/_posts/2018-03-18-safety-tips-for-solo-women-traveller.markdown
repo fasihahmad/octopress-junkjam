@@ -1,13 +1,12 @@
-Safety Tips for Solo Women Traveller
+# Safety Tips for Solo Women Traveller
+
 Open the social media and half of the people in your friend’s list is uploading pictures of some new places, doing some new adventures,  or buying something antique from a particular market, and not to forget the varieties of food and culture.
 So whatever the reason is, travelling around is on almost everybody’s bucket list. And to experience something different, Solo Travelling is a very romantic idea but not so romantic when comes for safety of women. So, here are some handy safety tips for women who wants to venture alone anywhere, let it be across a state, country or world.
 
 1.	Research :
-Lucky to born in the age of Google, where almost every information is handy. And when you are travelling alone to a new place, u should take care of Cultures, Languages, Politcs, how to Dress, Food, Scam and where to stay. When you are booking a hotel or hostel in advance, go by the review. Never book a hotel or place without reading reviews or when no review is mentioned. It will not only just help you to stay away from danger but also will not let you miss anything
-. 
+Lucky to born in the age of Google, where almost every information is handy. And when you are travelling alone to a new place, u should take care of Cultures, Languages, Politcs, how to Dress, Food, Scam and where to stay. When you are booking a hotel or hostel in advance, go by the review. Never book a hotel or place without reading reviews or when no review is mentioned. It will not only just help you to stay away from danger but also will not let you miss anything. 
 
 2.	Hyper-aware :
-
 Stay aware about your surroundings, if anyone is following you or a person watching you regularly or a car is halting continuously behind you. Stay cautious to footsteps, shadow or people coming near you. Change the lanes suddenly. Never update on Social Media in real time about your location, do it once you have left the place.
  
 
