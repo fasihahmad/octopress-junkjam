@@ -9,7 +9,7 @@ So with parting tears in eyes,will cherish the memories wali smiles on lips and 
   Give me some sunshine, give me some rain
   
 3. Seize the day,Make your life extraordinary:
-  kal ho na ho
+   kal ho na ho
   
 4. Can't refuse, a friend in need is a friend indeed:
    Tere jaisa yaar kahaa
@@ -17,14 +17,14 @@ So with parting tears in eyes,will cherish the memories wali smiles on lips and 
  5. For all the last bench day dreamers:
     Papa kehte hain bada naam karega
    
-5. for the beautiful relation that friendship is:
+ 6. for the beautiful relation that friendship is:
    Yaaron dosti badi hi haseen hai
    
-6. For the lost one:
+ 7. For the lost one:
    Behti hawa sa tha wo
  
-7. And the farwell anthem, which includes all emotions:
+ 8. And the farwell anthem, which includes all emotions:
    Kabhi Alvidaa na kahna
    
-8.And this one to sum up the whole experience:
-  Purani jeans
+  9.And this one to sum up the whole experience:
+    Purani jeans
