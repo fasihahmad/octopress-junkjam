@@ -42,20 +42,23 @@ hgroup>h2, h1 {
 	font-size: 1.85rem;
 }
 body>header {
-	background-image: url(../images/banner4.jpg);
+	background-image: url(../images/banner7.jpg);
 	background-position-y: -32px;
+    padding-bottom: 3.5em;
 
-	@media screen and (max-width: 40em){
-		background-color: #dcd3c2;
-		background-image: none;
-	}
 }
+
+body>header>hgroup {
+    margin-top: 7.5em;
+    @media screen and (max-width: 40em){
+        margin-top: 0;
+    }
+}
+
 body>nav {
     padding-top: 0em;
     padding-bottom: 0em;
-	@media screen and (max-width: 40em){
-		background-color: #cebc9a;
-	}
+    background-color: #c7c1c0;
 }
 article {
   ol, ul {
