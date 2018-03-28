@@ -23,7 +23,7 @@ So with parting tears in eyes,will cherish the memories wali smiles on lips and 
  7. For the lost one:
    Behti hawa sa tha wo
  
- 8. And the farwell anthem, which includes all emotions:
+  8. The farwell anthem, which includes all emotions:
    Kabhi Alvidaa na kahna
    
   9.And this one to sum up the whole experience:
