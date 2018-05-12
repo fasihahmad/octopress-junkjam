@@ -33,7 +33,7 @@
   {% if page.article %}  
   <meta property=article:author content='{{ article_author }}' />
   <meta property=article:tag content='{{ page.categories|categories }}' />
-  <meta property=article:modified_time content='{{ page.updated }}' />
+  <meta property=article:modified_time content='{% if page.updated %}{{ page.updated }}{% else %}{{page.date}}{% endif %}' />
   <meta property=article:published_time content='{{ page.date }}' />
   <meta property=article:publisher content='https://www.facebook.com/junkjam.in' />
   {% endif %}

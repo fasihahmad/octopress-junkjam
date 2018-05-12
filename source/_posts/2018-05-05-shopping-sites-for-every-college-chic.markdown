@@ -2,6 +2,7 @@
 layout: post
 title: "Shopping Sites for Every College Chic"
 date: 2018-05-05 22:28:08 +0530
+updated: 2018-05-13 01:19:08 +0530
 comments: true
 author: Priti Rajput
 facebook: https://www.facebook.com/eyepriti
@@ -22,7 +23,7 @@ Oxolloxo provides quality fashion apparels which are in trend. You can find thei
 
 #### Fashiana
 {% img center https://user-images.githubusercontent.com/1082157/39666348-eec005c4-50bf-11e8-80ae-0331bf4e994a.png 500 600 %}
-If you traditional chic and love Rajasthani prints, the site is all yours then! The site has got pretty cool collection of wrap skirts and off shoulder dresses having Rajasthani prints on it, not just typical outfits but also harem, jumpsuits, palazzo, jacket kurtas and comfy pants. <a rel="nofollow" href="http://www.fashiana.com/" target="_blank">www.fashiana.com</a> is waiting for you.
+If you are traditional chic and love Rajasthani prints, the site is all yours then! The site has got pretty cool collection of wrap skirts and off shoulder dresses having Rajasthani prints on it, not just typical outfits but also harem, jumpsuits, palazzo, jacket kurtas and comfy pants. <a rel="nofollow" href="http://www.fashiana.com/" target="_blank">www.fashiana.com</a> is waiting for you.
 
 #### Besiva
 {% img center https://user-images.githubusercontent.com/1082157/39666270-af0e7cea-50be-11e8-8040-5d1ef9fefd9e.gif 400 300 %}

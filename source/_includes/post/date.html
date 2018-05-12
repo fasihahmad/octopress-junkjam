@@ -1,3 +1,6 @@
+{% if page.date %}{% capture date %}{{ page.date_html }}{% endcapture %}{% endif %}
+{% if post.date %}{% capture date %}{{ post.date_html }}{% endcapture %}{% endif %}
+
 {% if page.date %}{% capture time %}{{ page.date_time_html }}{% endcapture %}{% endif %}
 {% if post.date %}{% capture time %}{{ post.date_time_html }}{% endcapture %}{% endif %}
 
