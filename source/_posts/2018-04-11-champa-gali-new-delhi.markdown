@@ -2,6 +2,7 @@
 layout: post
 title: "Champa Gali - New Delhi"
 date: 2018-04-11 22:23:00 +0530
+updated: 2018-05-27 23:19:08 +0530
 comments: true
 author: Nidhi Prakash
 facebook: https://www.facebook.com/nidhi.prakash.75
@@ -24,7 +25,10 @@ The restaurants come first when you enter in the Champa Gali. The flower embelli
 {% img center https://user-images.githubusercontent.com/1082157/38631487-821e4c5a-3dd7-11e8-801a-0fb92ba4c09b.jpg 500 600 %}
 
 ### The Liberty Village
+The Liberty Village, lying in the corner of the champa gali, is the first of its kind of venture. The theme of the shop is flea market. They are giving away stuffs from some dream brands like LULU & SKY  in throw away prices, YES..YOU HEARD IT RIGHT!! The reasons to visit the LIBERTY VILLAGE do not end here. The shop has got accessories and so customized COUPLE RINGS, quirky home decor and a restaurant inside to dine in. Themed wall to click pictures is another add on here.
+
 A place to fulfil your shopping hunger. The place has different varieties of fragrance, t-shirts, eye-catching clutches and heels to offer.
+{% img center https://user-images.githubusercontent.com/1082157/40589081-f3f0b43e-6204-11e8-8f78-f8318d349163.png 600 700 %}
 
 ### Morellos
 This Cafe is right in front of entry and will catch your eyes with its daily offers displaying on a white board. The Goan themed cafe has varieties of shakes to offer along with some other snax. Morellos team ensures that you spend some quality time with your people without distracted by your gizmos and so it offers very interesting deal that they call as MORELLO DIGITAL DETOX i.e. get some off on your order for submitting all your gadge for an hour. Board Games is another thing to keep you busy while digital detox.

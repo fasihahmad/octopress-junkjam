@@ -2,7 +2,7 @@
 layout: post
 title: "Shopping Sites for Every College Chic"
 date: 2018-05-05 22:28:08 +0530
-updated: 2018-05-13 01:19:08 +0530
+updated: 2018-05-25 10:19:08 +0530
 comments: true
 author: Priti Rajput
 facebook: https://www.facebook.com/eyepriti
@@ -23,7 +23,7 @@ Oxolloxo provides quality fashion apparels which are in trend. You can find thei
 
 #### Fashiana
 {% img center https://user-images.githubusercontent.com/1082157/39666348-eec005c4-50bf-11e8-80ae-0331bf4e994a.png 500 600 %}
-If you are traditional chic and love Rajasthani prints, the site is all yours then! The site has got pretty cool collection of wrap skirts and off shoulder dresses having Rajasthani prints on it, not just typical outfits but also harem, jumpsuits, palazzo, jacket kurtas and comfy pants. <a rel="nofollow" href="http://www.fashiana.com/" target="_blank">www.fashiana.com</a> is waiting for you.
+Love classic prints?If you are a traditional chic and love Rajasthani prints, the site is all yours then! The site has got pretty cool collection of wrap skirts and off shoulder dresses having Rajasthani prints on it, not just typical outfits but also harem, jumpsuits, palazzo, jacket kurtas and comfy pants. <a rel="nofollow" href="http://www.fashiana.com/" target="_blank">www.fashiana.com</a> is waiting for you.
 
 #### Besiva
 {% img center https://user-images.githubusercontent.com/1082157/39666270-af0e7cea-50be-11e8-8040-5d1ef9fefd9e.gif 400 300 %}
@@ -31,7 +31,7 @@ The site has the collection of dresses, tops and many more things. It has got th
 
 #### Bewakoof
 {% img center https://user-images.githubusercontent.com/1082157/39670448-3c0201d0-5123-11e8-945d-e4e2d7331f15.png 400 500 %}
-Imagine a site offering you the different design everyday with cool and funky texts and prints on it. Well here is the site that you should check, if you love and the tee price just starting at 249 for both men and women. Go bewakoof <a rel="nofollow" href="https://www.bewakoof.com/" target="_blank">www.bewakoof.com</a>
+Imagine a site offering you the different design everyday with cool and funky texts and prints on it. Well here is the site that you should check, if you love textie-text on your tee and the tee price just starting at 249 for both men and women. Go bewakoof <a rel="nofollow" href="https://www.bewakoof.com/" target="_blank">www.bewakoof.com</a>
 
 #### Benoit Fashion
 {% img center https://user-images.githubusercontent.com/1082157/39670451-3cce3e9e-5123-11e8-9749-2553b3173f67.png 400 600 %}
@@ -51,14 +51,14 @@ With 6 million fans following on Facebook, the site has got the good collections
 
 #### Clovia
 {% img center https://user-images.githubusercontent.com/1082157/39666276-b8b95dc8-50be-11e8-86cd-246e5a8e1c3e.jpg 600 500 %}
-Clovia is a womania site that offers a wide selection of lingerie.  A global brand that offers 4 bras at just 699 bucks while 5 panties @599. If you are looking for something sexy and spicy to gift you friend at her marriage, one must check out the site-<a rel="nofollow" href="https://www.clovia.com/" target="_blank">www.clovia.com</a>
+Clovia is a womania site that offers a wide selection of lingerie.  A global brand that offers 4 bras at just 699 bucks while 5 panties @599. If you are looking for something sexy and spicy to gift your friend at her marriage, one must check out the site-<a rel="nofollow" href="https://www.clovia.com/" target="_blank">www.clovia.com</a>
 
 #### Amazon local finds
 Now you must be wondering how Amazon is unheard or unseen, Amazon local finds tells you about your own local city on Amazon regarding shopping and home products. Well not many of know about this, check out the site <a rel="nofollow" href="https://www.amazon.in/localfinds" target="_blank">www.amazon.in/localfinds</a>
 
 #### Jewel Maze
 {% img center https://user-images.githubusercontent.com/1082157/39670450-3c89f87e-5123-11e8-8c6b-587c753ab487.png 400 400 %}
-Jewel Maze provides you trendy jewelry for your outfits. The site includes of beautiful Afghani, gold plated, silver plated and oxidized jewelries. If you are an ornamental person, you should check out their collection on <a rel="nofollow" href="https://www.jewelmaze.com/" target="_blank">www.jewelmaze.com</a>
+Jewel Maze provides you trendy jewelry for your outfits. The site includes of beautiful Afghani, gold plated, silver plated and oxidized jewelries. From western choker to ethnic choker, it has got everything that you wanna wear. If you are an ornamental person, you should check out their collection on <a rel="nofollow" href="https://www.jewelmaze.com/" target="_blank">www.jewelmaze.com</a>
 
 #### Tatacliq
 Tatacliq is the site that has the collection of outfits for both men and women, it has all set of clothes that one wants, from ethnic to western including indo-western look.  Refresh your collection by checking out <a rel="nofollow" href="https://www.tatacliq.com/" target="_blank">www.tatacliq.com</a>
