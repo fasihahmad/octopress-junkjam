@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Whatsapp Alert! NO NEED TO SAVE ONE TIME NUMBER"
+title: "Whatsapp Alert! No Need to save one time number"
 date: 2018-07-14 12:13:37 +0530
+updated: 2018-07-16 00:45:58 +0530
 comments: true
 author: Nidhi Prakash
 facebook: https://www.facebook.com/nidhi.prakash.75
