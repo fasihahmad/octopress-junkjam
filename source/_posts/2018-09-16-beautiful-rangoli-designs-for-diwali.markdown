@@ -2,6 +2,7 @@
 layout: post
 title: "Beautiful Rangoli designs for Diwali"
 date: 2018-09-16 13:28:10 +0530
+updated: 2018-09-19 23:19:08 +0530
 comments: true
 author: Aarti Tripathi
 facebook: https://www.facebook.com/aartitripathi44
@@ -22,7 +23,7 @@ Diwali is a festival of Goddess Laxmi, who embodies prosperity and wealth and th
 
 Spreading all these emotions this form of art is attractive but not always easy to execute. Specially the complex and integral rangoli designs often need expertise to implement. That is why here are some trendy and easy motifs that are simple to do yet beautiful to look. 
 
-### Mehndi Designs for Karva Chauth
+### New Rangoli Designs for Diwali
 
 #### Carpet style rangoli design for Diwali:
 {% img center https://user-images.githubusercontent.com/1082157/45594217-9c293c00-b9b4-11e8-9aca-548086c2d167.jpg  500 600 %}
